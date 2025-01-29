@@ -1,1 +1,1 @@
-# Amazon-clone
+Developed an Amazon-clone.
